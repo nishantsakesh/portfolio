@@ -70,9 +70,7 @@ h1, h2 {
 .profile-section {
     text-align: center;
     margin-bottom: 2rem;
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    width: 100%;
 }
 
 .profile-section img {
